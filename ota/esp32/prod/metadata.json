@@ -1,7 +1,5 @@
 {
-  "device": "esp32c6",
-  "channel": "prod",
-  "version": "1.1.5",
-  "url": "https://raw.githubusercontent.com/uzunberkay/KAMYON_BASINC_OTA/main/ota/esp32/prod/firmware.bin",
-  "sha256": "a5c9495f9642db8e09b7574f0d46a6e2f4c699a23d5619a9dbbee4d39788c6f7"
+  "version": "1.1.6",
+  "url": "https://uzunberkay.github.io/KAMYON_BASINC_OTA/ota/esp32/prod/firmware.bin",
+  "sha256": "dfd9636ab30ec5624d3c87914a1631a640f688322ecef45203b6fa49ae36333d"
 }
